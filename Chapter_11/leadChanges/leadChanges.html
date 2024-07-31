@@ -1,0 +1,23 @@
+<template>
+    <lightning-card title="Lead Changes" icon-name="standard:lead">
+        <div class="slds-var-m-around_medium">
+            <lightning-combobox
+                label="Select Lead"
+                value={leadRecord.Name}
+                options={leadOptions}
+                onchange={handleLeadChange}
+            ></lightning-combobox>
+
+            <p>Status: {leadRecord.Status}</p>
+
+            <div class="slds-var-m-top_medium">
+                <p>Related Changes:</p>
+                <ul>
+                    <template for:each={relatedChanges} for:item="change">
+                        <li key={change.Id}>{change.CreatedById.Name} - {change.CreatedDate}</li>
+                    </template>
+                </ul>
+            </div>
+        </div>
+    </lightning-card>
+</template>
