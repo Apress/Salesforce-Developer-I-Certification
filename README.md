@@ -3,7 +3,7 @@
 This repository accompanies [Salesforce Developer I Certification: Learn the Basics of Apex, Lightning Web Components, and Flow](https://www.link.springer.com/book/10.1007/9798868802997) by Konstantin Kapitanov (SpringerNature, 2024).
 
 
-![Cover image](images/book.png)
+![Cover image](images/9798868802997.JPG)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
