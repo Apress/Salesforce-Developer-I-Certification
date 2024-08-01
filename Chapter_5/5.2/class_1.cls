@@ -46,7 +46,7 @@ public Boolean isInAbundance() {
 return quantity > 100;
  }
 }
-
+// Use this Fruit class by creating instances of it
 Fruit myFruit = new Fruit('Apple', 150); 
 myFruit.displayInfo();
 System.debug('Is it in abundance? ' + myFruit.isInAbundance());
