@@ -1,4 +1,4 @@
-// Step 1: Open Developer Console ➤ File ➤ New ➤ Apex class ➤ insert the code and save
+// Step 1: Open Developer Console ➤ File ➤ New ➤ Apex class 
 public class MyOuterClass {
 private class MyPrivateClass { 
 public void myMethod() {
