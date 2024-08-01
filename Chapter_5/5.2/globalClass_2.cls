@@ -1,4 +1,4 @@
-// Step 1: Open Developer Console ➤ File ➤ New ➤ Apex class ➤ insert the code and save
+// Step 1: Open Developer Console ➤ File ➤ New ➤ Apex class 
 global class MyManagedPackageClass {
 // A method that is exposed for use by organizations installing the managed package
 global static String processData(String input) { 
