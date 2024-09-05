@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [Salesforce Developer I Certification: Learn the Basics of Apex, Lightning Web Components, and Flow](https://www.link.springer.com/book/10.1007/9798868802997) by Konstantin Kapitanov (SpringerNature, 2024).
+This repository accompanies [Salesforce Developer I Certification: Learn the Basics of Apex, Lightning Web Components, and Flow](https://www.link.springer.com/book/10.1007/979-8-8688-0300-0) by Konstantin Kapitanov (SpringerNature, 2024).
 
 
 ![Cover image](images/9798868802997.JPG)
